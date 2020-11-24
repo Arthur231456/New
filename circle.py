@@ -1,8 +1,8 @@
 import PyQt5.QtWidgets as QW
 from PyQt5 import QtCore, QtGui, uic
 from random import choice as c
-from PyQt5.QtGui import QColor
 import sys
+from PyQt5.QtGui import QColor
 
 
 class Drawer(QW.QMainWindow):
